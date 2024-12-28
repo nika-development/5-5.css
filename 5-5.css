@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #040405;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+}
+
+.photo {
+    width: 116px;
+}
+
+.first-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.second-div {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-second {
+    width: 250px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.content {
+    color: #FFF;
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.header-last-div {
+    display: flex;
+    align-items: center;
+    padding: 12px 24px;
+    border-radius: 24px;
+    background-color:#00FF1A;
+}
+
+.main-div {
+    margin-top: 124px;
+    display: flex;
+    justify-content: center;
+}
+
+.first-main-div {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.man {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 564px;
+}
+
+.convex {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.main-content {
+    width: 91px;
+    border: 1px solid #00FF1A;
+}
+
+
+.welcome {
+    color: #FFF;
+}
+
+
+.content-box {
+    color: #FFF;
+    font-size: 72px;
+}
+
+
+.deposit {
+    color: #7A7A7A;
+    font-size: 20px;
+}
+
+.button {
+    width: 298px;
+    display: flex;
+    gap: 16px;
+}
+
+.stake {
+    padding: 12px 24px;
+    display: flex;
+    justify-content: center;
+    border-radius: 24px;
+    background-color: #00FF1A;
+    text-decoration: none;
+}
+
+.now {
+    text-decoration: none;
+    color: #000;
+}
+
+.how {
+    padding: 12px 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    border: 1px solid #00FF1A;
+}
+
+.works {
+    color: #FFF;
+    text-decoration: none;
+}
+
+
+
+
+.convo {
+    margin-top: 112px;
+    display: flex;
+    justify-content: center;
+}
+
+.total {
+    max-width: 1040px;
+    width: 100%;
+}
+
+.earned {
+    border-top: 1px solid #00FF10;
+    width: 815px;
+    padding-top: 24px;
+    display: flex;
+    gap: 60px;
+    align-items: flex-start;
+}
+
+.git {
+    width: 158px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
+
+.family {
+    font-size: 32px;
+    color: #FFF;
+}
+
+.frame {
+    font-size: 20px;
+    color: #7A7A7A;
+}
